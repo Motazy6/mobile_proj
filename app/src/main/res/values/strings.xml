@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile Project</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Phone</string>
+    <string name="student_id_hint">Student ID</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+</resources>
